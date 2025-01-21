@@ -62,20 +62,24 @@ GeoInsight handles the following errors:
 - **HTTPTimeoutError:** When a request to Wikipedia times out.
 - **Invalid Input:** When users provide incorrect input (e.g., invalid Wikidata code).
 
+## Files Included
+- `main.py`: The main program file.
+- `requirements.txt`: A list of required Python libraries.
+- `README.md`: Documentation about the project.
+
 ## Project Structure
 ```
 GeoInsight/
-├── project.py
-├── information.py
-├── my_api.env
-├── README.md
-├── recommend.py
+├── main.py
 ├── requirements.txt
 └── README.md
 ```
 
+## License
+This project is licensed under the MIT License. See `LICENSE` for details.
+
 ## Author
-GeoInsight is a CS50P final project by [Harsh Chandrawal].
+GeoInsight is a CS50P final project by [Your Name].
 
 ## Acknowledgements
 - [CS50's Introduction to Programming with Python](https://cs50.harvard.edu/python/2022/)
