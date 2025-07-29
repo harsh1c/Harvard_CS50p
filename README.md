@@ -12,4 +12,4 @@ This repository contains all projects for CS50P, organized by week.
 7. [Week 6 - File I/O](Week6_File_IO/)
 8. [Week 7 - Regular Expressions](Week7_Regular_Expressions/)
 9. [Week 8 - Object-Oriented Programming](Week8_Object_Oriented_Programming/)
-10. [Week 9 - Et Cetera](Week9_Et_Cetera/)
+10. [Final Project](Final_Project/)
