@@ -5,16 +5,16 @@ def main():
     print(new_word)
 
 def shorten(word):
-    vowels = ["a" , "e" , "i" , "o" , "u" , "A" , "E" , "I" , "O" , "U"]
-    consonants = []
+    vovels = ["a" , "e" , "i" , "o" , "u" , "A" , "E" , "I" , "O" , "U" ]
+    consonents = []
     print("Output: " , end = "")
 
     for i in word:
-        if i in vowels:
+        if i in vovels:
             continue
         else:
-            consonants.append(i)
-    return "".join(consonants)
+            consonents.append(i)
+    return "".join(consonents)
 
 
 
