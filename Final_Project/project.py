@@ -31,7 +31,7 @@ def main():
     location = get_location()  # Prompting user for location input (this is commented for now)
     place_type = ask_info()  # Asking for additional information about the location type
 
-    key = "6e24e5c0d0414dabb576fca2fb247bd2"  # Your Geoapify API key (ensure it's secured in a .env file)
+    key = ""  # Your Geoapify API key (ensure it's secured in a .env file)
 
     # Check if API key is provided, exit if not
     if not key:
