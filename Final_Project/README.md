@@ -78,8 +78,6 @@ GeoInsight/
 ## License
 This project is licensed under the MIT License. See `LICENSE` for details.
 
-## Author
-GeoInsight is a CS50P final project by [Your Name].
 
 ## Acknowledgements
 - [CS50's Introduction to Programming with Python](https://cs50.harvard.edu/python/2022/)
